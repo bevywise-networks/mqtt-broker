@@ -28,4 +28,4 @@ web_socket=conf[“websocket”]
 def setclientobj(obj):
 global Client_obj
 Client_obj=obj[‘Client_obj’]
-#Client_ob
+#Client_obj
